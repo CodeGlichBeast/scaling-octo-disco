@@ -1,0 +1,14 @@
+body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color:gray(0, 20%, 68%, 0.39); 
+      border-style:ridge;
+  }
